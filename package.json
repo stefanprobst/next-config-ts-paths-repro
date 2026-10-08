@@ -1,0 +1,17 @@
+{
+	"name": "next-config-ts-paths-repro",
+	"private": true,
+	"scripts": {
+		"build": "next build"
+	},
+	"dependencies": {
+		"next": "16.5.0-canary.3",
+		"react": "19.3.0",
+		"react-dom": "19.3.0"
+	},
+	"devDependencies": {
+		"@types/node": "24.19.1",
+		"@types/react": "19.3.0",
+		"typescript": "5.9.3"
+	}
+}
